@@ -1,0 +1,56 @@
+body
+{
+    background-image: url(rin_sit.gif);
+    background-size: 100%;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+ul {
+    margin-top: 5px;
+}
+
+a
+{
+    color: rgb(6, 82, 6);
+}
+a:hover
+{
+    color: brown;
+}
+
+.name
+{
+    color: brown;
+    margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-shadow: rgb(58, 58, 197) 0px 0px 20px;
+}
+.paragraph
+{
+    width: 1000px;
+    font-size: 20px;
+    color: black;
+    margin-left: 10px;
+    position: absolute;
+    top: 95px;
+    left: 320px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: white 0px 0px 20px;
+}
+.image
+{
+    position: absolute;
+    flex-basis: 40%;
+    left: 20px;
+    top: 85px;
+    box-shadow: red 0px 0px 10px;
+}
+.video
+{
+    position: absolute;
+    top: 420px;
+    left: 20px;
+    box-shadow: red 0px 0px 10px;
+}
