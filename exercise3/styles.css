@@ -34,22 +34,22 @@ a:hover
     color: black;
     margin-left: 10px;
     position: absolute;
-    top: 8%;
-    left: 17%;
+    top: 90px;
+    left: 350px;
     font-family: 'Times New Roman', Times, serif;
     text-shadow: white 0px 0px 20px;
 }
 .image
 {
     position: absolute;
-    left: 1%;
-    top: 10%;
+    left: 20px;
+    top: 100px;
     box-shadow: red 0px 0px 10px;
 }
 .video
 {
     position: absolute;
-    top: 45%;
-    left: 1%;
+    top: 450px;
+    left: 20px;
     box-shadow: red 0px 0px 10px;
 }
